@@ -1,4 +1,4 @@
-# Warmup-projects
+# Mini-projects
 # Project One - Background color selector.
 
 This repository contains basic projects to understand DOM manipulation and event handling.
