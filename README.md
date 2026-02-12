@@ -10,7 +10,7 @@ The main goal of this project is to strengthen my understanding of HTML, CSS, an
 
 Change the background color dynamically with a button click
 
-Random color generation (if implemented)
+Selected color generation 
 
 Simple and clean user interface
 
@@ -45,7 +45,7 @@ Normal weight
 
 Overweight
 
-Validates user input (prevents empty or invalid values) (if you added this)
+Validates user input (prevents empty or invalid values)
 
 Simple and beginner-friendly user interface
 
