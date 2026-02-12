@@ -38,19 +38,7 @@ Writing clean and readable beginner-level code
 
 Understanding how frontend components interact
 
-4. Future Improvements
-
-Add color name display (e.g., Hex/RGB values)
-
-Copy color code to clipboard feature
-
-Smooth transition animations between colors
-
-Dark/Light mode toggle
-
-Add multiple UI themes
-
-5. How to Run
+4. How to Run
 
 Clone this repository
 
