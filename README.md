@@ -57,4 +57,4 @@ CSS – Styling and layout design
 
 JavaScript – Logic for BMI calculation and DOM manipulation
 
-The project is designed to be simple, easy to understand, and beginner-focused, making it a great example of applying basic programming logic to a real-world problem. It can be used as a learning exercise for understanding formulas, conditional statements, and basic user interface design (if web-based).
+The project is designed to be simple, easy to understand, and beginner-focused, making it a great example of applying basic programming logic to a real-world problem. It can be used as a learning exercise for understanding formulas, conditional statements, and basic user interface design.
