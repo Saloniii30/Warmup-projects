@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(1, 1, 36);
+}
+h1{
+    color: white;
+}
+label{
+    color: white;
+    align-items: center;
+    gap:10px;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+div{
+    text-align: center;
+
+}
+button{
+    height:30px;
+    font-size:15px;
+    border: 2px;
+    color: aliceblue;
+    background-color: grey;
+}
+input{
+    border: 5px solid black;
+    height: 20px;
+}
+#result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px; 
+    color: white;
+    font-size: 20px;
+}
+#result span {
+    display: block;
+    text-align: center;
+}
