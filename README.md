@@ -58,3 +58,27 @@ CSS – Styling and layout design
 JavaScript – Logic for BMI calculation and DOM manipulation
 
 The project is designed to be simple, easy to understand, and beginner-focused, making it a great example of applying basic programming logic to a real-world problem. It can be used as a learning exercise for understanding formulas, conditional statements, and basic user interface design.
+
+# Project Three - Random Background Color Changer (Start/Stop)
+
+A simple interactive web project that continuously changes the background color at a fixed interval. Users can start and stop the color-changing process using buttons. This project was built as a practice exercise to strengthen my JavaScript and DOM manipulation skills.
+
+1. Features
+
+ Start button to begin automatic background color changes
+
+ Stop button to stop the color changing process
+
+ Random color generation using JavaScript
+
+ Dynamic background updates
+
+ Lightweight and beginner-friendly project
+
+2. Technologies Used
+
+HTML5 – Page structure
+
+CSS3 – Styling and UI design
+
+JavaScript  – Logic for random color generation and interval control
