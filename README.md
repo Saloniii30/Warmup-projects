@@ -82,3 +82,51 @@ HTML5 – Page structure
 CSS3 – Styling and UI design
 
 JavaScript  – Logic for random color generation and interval control
+
+# Project Four - Random joke generator.
+Random Joke Generator
+
+A simple Random Joke Generator built to practice and understand exception handling using try-catch. This mini project demonstrates how to safely handle runtime errors while generating and displaying random jokes.
+
+1. Project Purpose
+
+This project was created as a hands-on exercise to:
+
+Understand how try-catch works
+
+Handle unexpected runtime errors gracefully
+
+Prevent program crashes
+
+Improve debugging skills
+
+Practice clean and structured coding
+
+Instead of just learning theory, this project focuses on applying exception handling in a practical way.
+
+2. Features
+
+Generates a random joke from a predefined collection
+
+Uses try-catch to handle possible errors
+
+Prevents crashes due to invalid input or unexpected issues
+
+Beginner-friendly structure
+
+Lightweight and easy to understand
+
+3. What I Learned
+
+Through this project, I learned:
+
+How try block contains code that may throw an exception
+
+How catch block handles errors without stopping the program
+
+Why proper error handling is important in real-world applications
+
+How to write safer and more reliable code
+
+
+
